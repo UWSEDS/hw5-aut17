@@ -1,4 +1,4 @@
-# Project functional specificatioin
+# Project functional specification
 In this homework, you will create the functional specification for your class project. This is a group homework.
 
 The functional specification should start with the problem statement outlined in the README of your project. Examples of problem statements are: (a) predict Seattle housing prices; (b) build a repository of easily accessed social science data; (c) create a tool for visualizing crime data in Seattle. The functional specification should be a markdown file in the Docs folder of your project repository.
